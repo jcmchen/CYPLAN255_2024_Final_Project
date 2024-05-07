@@ -10,8 +10,11 @@ This project aims to utilize mobility and population data at different times to 
    
 were introduced to study the spatial and temporial aspects of different districts.
 
+## 1. Bike Sharing system (YouBike 2.0) in Taipei
 
 ![CP255_Final_Presentation_Page_02](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/af4a47f4-8f6c-4995-94b6-fb099529063f)
+
+Heatmaps were intrudoced to visualize the density of bike stations. 
 
 ![CP255_Final_Presentation_Page_03](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/9bdc701d-99f6-4b72-82e4-2e1d3ed67680)
 
@@ -19,7 +22,7 @@ were introduced to study the spatial and temporial aspects of different district
 
 ![CP255_Final_Presentation_Page_05](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/f3462d6d-3b27-45aa-a2af-e10324d52960)
 
-
+## 2. Housing Price in Taipei (2012-2023)
 ![CP255_Final_Presentation_Page_06](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/92930581-6448-484b-af40-cfa4307927f0)
 
 ![CP255_Final_Presentation_Page_07](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/7b0bff1d-ddf8-4ff1-8faf-772e3aaceff1)
@@ -28,6 +31,7 @@ were introduced to study the spatial and temporial aspects of different district
 
 ![CP255_Final_Presentation_Page_09](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/ed8f7b75-4096-4dbb-b973-031a0c908b23)
 
+# 3. Housing price and Taipei Metro (MRT) stations in Taipei
 ![CP255_Final_Presentation_Page_10](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/0cf90d7c-42e5-4078-a6aa-4fb17dfcd79e)
 
 ![CP255_Final_Presentation_Page_11](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/c1e584a5-4ee7-4cb3-aa15-0b19301a0ae3)
