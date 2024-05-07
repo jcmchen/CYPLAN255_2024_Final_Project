@@ -18,8 +18,8 @@ The availability of bikes differs at different times and locations. Take the Nat
 During daytime, the supply is high (bottom left image). However, the supply is low during peak hours and times other than daytime (bottom right image).
 ![CP255_Final_Presentation_Page_02](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/af4a47f4-8f6c-4995-94b6-fb099529063f)
 
-Heatmaps were intrudoced to visualize the density of bike stations. Given the high density of bike stations in the National Taiwan University (NTU)/Gongguan area,
-the supply is still low in the whole area, showing red on the right bottom image.
+Heatmaps were intrudoced to visualize the density of bike stations. Given the high density of bike stations in the National Taiwan University (NTU)/Gongguan area
+(left bottom image), the supply is still low in the whole area, showing red on the right bottom image.
 
 ![CP255_Final_Presentation_Page_03](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/9bdc701d-99f6-4b72-82e4-2e1d3ed67680)
 
@@ -29,6 +29,8 @@ has its first class starting at 9:10 AM.
 
 ![CP255_Final_Presentation_Page_04](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/8e98ec0f-cb56-40f7-85a1-4f2524b23ab8)
 
+Taipei, the capital city of Taiwan, is divided into 12 administrative districts. These districts are: Zhongzheng, Datong, Zhongshan, Songshan, Daan, 
+Wanhua, Xinyi, Shilin, Beitou, Neihu, Nangang, and Wenshan. Based on the population data (Jan, 2022), the figure below shows the number of stations does not align with the number of population.
 ![CP255_Final_Presentation_Page_05](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/f3462d6d-3b27-45aa-a2af-e10324d52960)
 
 ## 2. Housing Price in Taipei (2012-2023)
