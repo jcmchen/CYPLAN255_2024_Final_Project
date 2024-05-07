@@ -10,16 +10,18 @@ This project aims to utilize mobility and population data at different times to 
    
 were introduced to study the spatial and temporial aspects of different districts.
 
-## 1. Bike Sharing system (YouBike 2.0) in Taipei
+## 1. Bike Sharing System (YouBike 2.0) in Taipei
 
 The availability of bikes differs at different times and locations. Take the National Taiwan University (NTU)/Gongguan area as an example.
-During daytime, the supply is high. However, the supply is low during peak hours and times other than daytime.
+During daytime, the supply is high (bottom left image). However, the supply is low during peak hours and times other than daytime (bottom right image).
 ![CP255_Final_Presentation_Page_02](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/af4a47f4-8f6c-4995-94b6-fb099529063f)
 
 Heatmaps were intrudoced to visualize the density of bike stations. Given the high density of bike stations in the National Taiwan University (NTU)/Gongguan area,
-the supply is still low in the whole area.
+the supply is still low in the whole area, show red on the right bottom image.
 
 ![CP255_Final_Presentation_Page_03](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/9bdc701d-99f6-4b72-82e4-2e1d3ed67680)
+
+Based on the historical data (December, 2023), the top 10 most used/busiest stations are all stations located at the exists of the Taipei Metro (MRT) stations.
 
 ![CP255_Final_Presentation_Page_04](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/8e98ec0f-cb56-40f7-85a1-4f2524b23ab8)
 
@@ -34,7 +36,7 @@ the supply is still low in the whole area.
 
 ![CP255_Final_Presentation_Page_09](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/ed8f7b75-4096-4dbb-b973-031a0c908b23)
 
-# 3. Housing price and Taipei Metro (MRT) stations in Taipei
+# 3. Housing Price and Taipei Metro (MRT) Stations in Taipei
 ![CP255_Final_Presentation_Page_10](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/0cf90d7c-42e5-4078-a6aa-4fb17dfcd79e)
 
 ![CP255_Final_Presentation_Page_11](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/c1e584a5-4ee7-4cb3-aa15-0b19301a0ae3)
