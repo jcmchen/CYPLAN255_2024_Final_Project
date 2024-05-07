@@ -1,5 +1,5 @@
 # Mobility and Housing in Taipei
-CYPLAN 255, Spring 2024 Final Project
+CYPLAN 255, Spring 2024 Final Project <br />
 Instructor: Max Gardner / GSI: Meiqing Li 
 
 ## Brief Summary
