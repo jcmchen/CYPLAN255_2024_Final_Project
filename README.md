@@ -1,6 +1,7 @@
 # Mobility and Housing in Taipei
 CYPLAN 255, Spring 2024 Final Project <br />
 Instructor: Max Gardner / GSI: Meiqing Li 
+<br /><br />
 
 ## Brief Summary
 This project aims to utilize mobility and population data at different times to identify optimal locations for mobile vendors in Taipei City, Taiwan.
@@ -19,7 +20,7 @@ During daytime, the supply is high (bottom left image). However, the supply is l
 ![CP255_Final_Presentation_Page_02](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/af4a47f4-8f6c-4995-94b6-fb099529063f)
 
 Heatmaps were intrudoced to visualize the density of bike stations. Given the high density of bike stations in the National Taiwan University (NTU)/Gongguan area
-(bottom left image), the supply is still low in the whole area, showing red on the right bottom image.
+(bottom left image), the supply is still low in the whole area, showing red on the bottom right image.
 
 ![CP255_Final_Presentation_Page_03](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/9bdc701d-99f6-4b72-82e4-2e1d3ed67680)
 
@@ -41,6 +42,8 @@ light blue, and yellow-orangish).
 
 
 ![CP255_Final_Presentation_Page_06](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/92930581-6448-484b-af40-cfa4307927f0)
+
+Figures below show the housing price and price distribution by districts.
 
 ![CP255_Final_Presentation_Page_07](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/7b0bff1d-ddf8-4ff1-8faf-772e3aaceff1)
 
