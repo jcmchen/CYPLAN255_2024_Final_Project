@@ -12,9 +12,12 @@ were introduced to study the spatial and temporial aspects of different district
 
 ## 1. Bike Sharing system (YouBike 2.0) in Taipei
 
+The availability of bikes differs at different times and locations. Take the National Taiwan University (NTU)/Gongguan area as an example.
+During daytime, the supply is high. However, the supply is low during peak hours and times other than daytime.
 ![CP255_Final_Presentation_Page_02](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/af4a47f4-8f6c-4995-94b6-fb099529063f)
 
-Heatmaps were intrudoced to visualize the density of bike stations. 
+Heatmaps were intrudoced to visualize the density of bike stations. Given the high density of bike stations in the National Taiwan University (NTU)/Gongguan area,
+the supply is still low in the whole area.
 
 ![CP255_Final_Presentation_Page_03](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/9bdc701d-99f6-4b72-82e4-2e1d3ed67680)
 
