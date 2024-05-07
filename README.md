@@ -65,12 +65,23 @@ prices tend to retain their value better when they are higher.
 
 ![CP255_Final_Presentation_Page_10](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/0cf90d7c-42e5-4078-a6aa-4fb17dfcd79e)
 
+<br /><br />
+The Taipei Metro (MRT) system primarily serves Taipei City and New Taipei City, which are the two largest cities in northern Taiwan. Stations in Taipei City
+were clipped and colored in red. Stations in New Taipei City were colored in yellow (bottom right image).
+
 ![CP255_Final_Presentation_Page_11](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/c1e584a5-4ee7-4cb3-aa15-0b19301a0ae3)
 
+Image below shows the housing location and MRT exits in Taipei City.<br /><br />
 ![CP255_Final_Presentation_Page_12](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/f4fd98ce-c700-496e-9dd5-1afb130613bd)
+
+<br /><br />
+Images below show the unfiltered (left) and filtered (right) housing within 5-minute walking distance from MRT exits (isochrones).  
 
 ![CP255_Final_Presentation_Page_13](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/42c83817-b156-49c6-9a4b-5842dd211afc)
 
+Zoom-in view of the exits, isochrones, and housing locations.<br /><br />
 ![CP255_Final_Presentation_Page_14](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/9b7dd1f6-8f08-4c47-9f1d-f2c0b8bbbeb4)
 
+From the figure below, we can see that except housing in Songshan and Nangang districts, most housing located within the 5-min-walk distance from MRT stations
+have higher price than those are not located within the 5-min-walk distance.
 ![CP255_Final_Presentation_Page_15](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/b8e18b42-6f10-4239-86d1-5cc5cdfb706c)
