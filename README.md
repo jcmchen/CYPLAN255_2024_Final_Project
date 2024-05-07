@@ -54,8 +54,8 @@ light blue, and yellow-orangish).
 
 ![CP255_Final_Presentation_Page_08](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/c15ddbb8-645e-4b59-8579-2f99767bbc96)
 
-When it comes to building types, the price of apartment is relatively lower than other three building types. Also, based on the correlation analysis from 2012-2023, 
-prices tend to retain their value better when they are higher.
+When it comes to building types, the price of apartment is relatively lower than other three building types. Also, the correlation analysis from 2012-2023 suggests
+that prices tend to retain their value better when they are higher.
 
 ![CP255_Final_Presentation_Page_09](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/ed8f7b75-4096-4dbb-b973-031a0c908b23)
 
