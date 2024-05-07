@@ -47,6 +47,10 @@ Figures below show the housing price and price distribution by districts.
 
 ![CP255_Final_Presentation_Page_07](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/7b0bff1d-ddf8-4ff1-8faf-772e3aaceff1)
 
+Images below show the price distribution: <br />
+(1)between districts with the highest (Daan) and the lowest (Beitou) price.
+(2)between districts in the same housing price level.
+
 ![CP255_Final_Presentation_Page_08](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/c15ddbb8-645e-4b59-8579-2f99767bbc96)
 
 ![CP255_Final_Presentation_Page_09](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/ed8f7b75-4096-4dbb-b973-031a0c908b23)
