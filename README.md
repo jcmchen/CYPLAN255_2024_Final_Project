@@ -1,4 +1,6 @@
 # Mobility and Housing in Taipei
+CYPLAN 255, Spring 2024 Final Project
+Instructor: Max Gardner / GSI: Meiqing Li 
 
 ## Brief Summary
 This project aims to utilize mobility and population data at different times to identify optimal locations for mobile vendors in Taipei City, Taiwan.
