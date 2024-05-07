@@ -17,11 +17,13 @@ During daytime, the supply is high (bottom left image). However, the supply is l
 ![CP255_Final_Presentation_Page_02](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/af4a47f4-8f6c-4995-94b6-fb099529063f)
 
 Heatmaps were intrudoced to visualize the density of bike stations. Given the high density of bike stations in the National Taiwan University (NTU)/Gongguan area,
-the supply is still low in the whole area, show red on the right bottom image.
+the supply is still low in the whole area, showing red on the right bottom image.
 
 ![CP255_Final_Presentation_Page_03](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/9bdc701d-99f6-4b72-82e4-2e1d3ed67680)
 
 Based on the historical data (December, 2023), the top 10 most used/busiest stations are all stations located at the exists of the Taipei Metro (MRT) stations.
+Those stations are not always busy throughout the whole day. Three stations near National Taiwan University (NTU) has low supply at 8:29 AM due to the university
+has its first class starting at 9:10 AM.
 
 ![CP255_Final_Presentation_Page_04](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/8e98ec0f-cb56-40f7-85a1-4f2524b23ab8)
 
