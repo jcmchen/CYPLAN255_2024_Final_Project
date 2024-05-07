@@ -60,6 +60,8 @@ prices tend to retain their value better when they are higher.
 ![CP255_Final_Presentation_Page_09](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/ed8f7b75-4096-4dbb-b973-031a0c908b23)
 
 # 3. Housing Price and Taipei Metro (MRT) Stations in Taipei
+
+2500 housing information in the same year was randomly selected to plot on the map below.
 ![CP255_Final_Presentation_Page_10](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/0cf90d7c-42e5-4078-a6aa-4fb17dfcd79e)
 
 ![CP255_Final_Presentation_Page_11](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/c1e584a5-4ee7-4cb3-aa15-0b19301a0ae3)
