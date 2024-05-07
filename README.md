@@ -34,6 +34,12 @@ Wanhua, Xinyi, Shilin, Beitou, Neihu, Nangang, and Wenshan. Based on the populat
 ![CP255_Final_Presentation_Page_05](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/f3462d6d-3b27-45aa-a2af-e10324d52960)
 
 ## 2. Housing Price in Taipei (2012-2023)
+
+88101 housing price information was collected from 2012-2023(Q1-Q4) from the Dept of Land Administration M. O. I., Taiwan.
+Among all the districts, Daan district has the highest housing price consistently. Other districts then could be clustered into three pricing levels (dark blue,
+light blue, and yellow-orangish).
+
+
 ![CP255_Final_Presentation_Page_06](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/92930581-6448-484b-af40-cfa4307927f0)
 
 ![CP255_Final_Presentation_Page_07](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/7b0bff1d-ddf8-4ff1-8faf-772e3aaceff1)
