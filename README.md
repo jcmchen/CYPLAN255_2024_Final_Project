@@ -10,6 +10,7 @@ This project aims to utilize mobility and population data at different times to 
 2. [Top 10 most used/busiest YouBike 2.0 stations: December, 2023](https://data.taipei/api/v1/dataset/c7a076dd-8aa6-4129-9c8a-e04cbf18694f?scope=resourceAquire)
 3. [Taipei City Population by District: Jan, 2022](https://data.taipei/api/v1/dataset/9681db4c-fb1b-4a23-9013-e74483b6b046?scope=resourceAquire)
 4. [Real Estate Pricing in Taipei 2012[Q1-Q4]-2023[Q1-Q4]](https://plvr.land.moi.gov.tw/Index)
+5. [Taipei Metro (MRT) Stations Exits](https://data.gov.tw/dataset/128428)
    
 were introduced to study the spatial and temporial aspects of different districts.
 
@@ -71,7 +72,7 @@ were clipped and colored in red. Stations in New Taipei City were colored in yel
 
 ![CP255_Final_Presentation_Page_11](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/c1e584a5-4ee7-4cb3-aa15-0b19301a0ae3)
 
-Image below shows the housing location and MRT exits in Taipei City.<br /><br />
+Image below shows the housing location (blue) and MRT exits (red) in Taipei City.<br /><br />
 ![CP255_Final_Presentation_Page_12](https://github.com/jcmchen/CYPLAN255_2024_Final_Project/assets/70067477/f4fd98ce-c700-496e-9dd5-1afb130613bd)
 
 <br /><br />
