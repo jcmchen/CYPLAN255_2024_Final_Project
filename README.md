@@ -5,6 +5,7 @@ Instructor: Max Gardner / GSI: Meiqing Li
 
 ## Brief Summary
 This project aims to utilize mobility, population, and housing data at different times to study the spatial and temporial aspects of different districts in Taipei City, Taiwan.
+The goal of this project is to propose a more seamless, intelligent, and adaptable urban living experience, enhancing convenience and efficiency in city living.
 
 Data Source:
 1. [YouBike 2.0 (bike-sharing system) Real-Time Data](https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json)
